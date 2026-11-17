@@ -10,4 +10,4 @@ I mostly work with PHP, Laravel, MySQL, MariaDB, Redis, and GitHub Actions. I al
 
 Most of my work is in private repositories.
 
-[LinkedIn](https://www.linkedin.com/in/nikola-zikic-10415416a/)
+[LinkedIn]([https://www.linkedin.com/in/nikola-zikic-10415416a/](https://www.linkedin.com/in/nikola-%C5%BEiki%C4%87-10415416a/))
